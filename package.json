@@ -34,7 +34,6 @@
     "@inquirer/input": "^4.1.8",
     "@inquirer/select": "^4.1.0",
     "@types/node": "^22.13.11",
-    "commander": "^13.1.0",
     "eslint": "^9.23.0",
     "execa": "^8.0.1",
     "gunshi": "^0.24.0",
